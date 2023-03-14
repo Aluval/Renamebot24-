@@ -31,6 +31,6 @@ view - view current thumbnail
 
 ## Support
 
-● [BOT UPDATES](https://t.me/mkn_bots_updates)
+● [BOT UPDATES](https://t.me/sunrisesharsha24Bot)
 
-● [SUPPORT GROUP](https://t.me/mkn_botz_discussion_group)
+● [SUPPORT GROUP](https://t.me/sunrisesharsha24DiscussionBot)
