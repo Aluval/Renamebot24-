@@ -27,10 +27,3 @@ rename - replay with file to rename
 del - to delete your thumbnail 
 view - view current thumbnail 
 ```
-
-
-## Support
-
-● [BOT UPDATES](https://t.me/sunrisesharsha24Bot)
-
-● [SUPPORT GROUP](https://t.me/sunrisesharsha24DiscussionBot)
